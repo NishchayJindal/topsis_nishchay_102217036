@@ -9,7 +9,7 @@ setup(
     description="A Python package to perform TOPSIS analysis on datasets.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="", 
+    url="https://github.com/NishchayJindal/topsis_nishchay_102217036", 
     packages=find_packages(),
     py_modules=["main"],  
     entry_points={
